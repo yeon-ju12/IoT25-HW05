@@ -18,7 +18,7 @@ smartphone
 
 ## Source code (Common : used in both 5-1 and 5-2)
 
-# Server
+### Server
 #include <BLEDevice.h>
 #include <BLEServer.h>
 #include <BLEUtils.h>
@@ -120,7 +120,7 @@ void loop() {
   }
 }
 
-# Client
+### Client
 5_ 클라이언트
 
 #include <Wire.h>
