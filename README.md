@@ -29,7 +29,7 @@ smartphone
 #include <DHT_U.h>
 
 // BLE server name
-#define bleServerName "DHT_ESP32"
+#define bleServerName "DHT_ESP32_1218"
 #define DHTPIN 22
 #define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
