@@ -1,5 +1,5 @@
 # IoT25-HW05
-Assignment 1. BLE & ESP32 BLE Server and Client
+Assignment 5. BLE & ESP32 BLE Server and Client
 
 ---
 
