@@ -122,8 +122,6 @@ void loop() {
 }
 
 ### Client
-```cpp
-5_ 클라이언트
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
